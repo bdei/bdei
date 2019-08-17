@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/bdei/bdei/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bdei/bdei/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<!DOCTYPE html>
+<html lang="eng-us">
+    <head>
+        <meta charset="UTF-8">
+    </head>
+    <body>
+    <style>
+        .page-header {
+    padding: 3rem 7rem;
+}
+.page-header {
+    color: #e8dede;
+    text-align: center;
+    background-color: #8e6270;
+    background-image: linear-gradient(118.8deg, #0a6cce, #a8e3c6);
+}
+        
+        
+    </style>
+    <section class="page-header">
+    <h1 class="project-name>Test Css</h1>
+    <h2 class="project-tagline">Test</h2>
+    <a class="button" href="http://www.google.com > Search </a>
+    </section>
